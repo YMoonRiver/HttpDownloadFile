@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\bin\Debug\HttpForm.exe.config
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\bin\Debug\HttpForm.exe
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\bin\Debug\HttpForm.pdb
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.Form1.resources
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.Properties.Resources.resources
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.exe
+C:\Users\Administrator\source\repos\HttpForm\HttpForm\obj\Debug\HttpForm.pdb
